@@ -1,0 +1,1 @@
+ E:\\GFG\\NFC-Reader-Writer-Flutter\\.dart_tool\\flutter_build\\c48cbc7f7f6f9c39d59eda389b20c5fe\\native_assets.yaml: 
